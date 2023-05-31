@@ -14,8 +14,6 @@ class MyBook extends Book{
     }
 }
 
-//Write MyBook class here
-
 public class Abstract{
 	
 	public static void main(String []args){
